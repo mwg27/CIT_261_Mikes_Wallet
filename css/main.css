@@ -1,0 +1,117 @@
+
+#topbanner {
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+
+  #buttondiv {
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-left: 25px;
+  }
+
+  #buttonstyle {
+    width: 175px;
+    height: 85;
+  }
+
+  #savestyle {
+    width: 115px;
+    height: 50px;
+  }
+
+  #totaldiv {
+    width: 100%;
+    height: 100px;
+    margin-top: 45px;
+    font-size: 42px;
+    margin-left: 25px;
+  }
+
+  #tablestyle {
+    width: 100%;   
+  }
+
+  #tableheader {
+    background-color: lightskyblue;
+    color: white;
+    font-size: 26px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  #tablerow0 {
+    background-color: #d5e0f2;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  #tablerow1 {
+    background-color: #edf0f4;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  #denterdiv {
+    width: auto;
+    font-size: 26px;
+    margin-left: 25px;
+  }
+
+  #dbtndiv {
+    width: auto;
+    margin-top: 25px;
+    margin-left: 25px;
+  }
+
+  #ptitlediv {
+    width: auto;
+    height: 75px;
+    margin-top: 20px;
+    font-size: 42px;
+    text-align: center;
+  }
+
+  #pfrom {
+    width: 350px;
+    height: 20px;
+    font-size: 14px;
+  }
+
+  #pmemo {
+    width: 350px;
+    height: 20px;
+    font-size: 14px;
+  }
+
+  #pamount {
+    height: 20px;
+    font-size: 14px;
+  }
+
+  #dfrom {
+    width: 350px;
+    height: 20px;
+    font-size: 14px;
+  }
+
+  #dmemo {
+    width: 350px;
+    height: 20px;
+    font-size: 14px;
+  }
+
+  #damount {
+    height: 20px;
+    font-size: 14px;
+  }
